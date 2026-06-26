@@ -1,0 +1,9 @@
+{
+    "service_name": "my-web-app",
+    "environment": "dev",
+    "features": {
+        "logging_enabled": true,
+        "metrics_enabled": false,
+        "maintenance_mode": false
+    }
+}
